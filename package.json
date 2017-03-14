@@ -1,0 +1,20 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "'Estudo App'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Estudo",
+    "Koa"
+  ],
+  "author": "Lucas Isabel",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.0.0-alpha.8",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.0.1"
+  }
+}
